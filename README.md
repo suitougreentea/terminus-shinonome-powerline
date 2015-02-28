@@ -1,5 +1,7 @@
 terminus-shinonome-powerline
 ============================
+![Development status: Inactive](https://img.shields.io/badge/Development%20status-Inactive-red.svg)
+![Progress: Release](https://img.shields.io/badge/Progress-Release-brightgreen.svg)
 
 Create Terminess (= Terminus+Powerline) + Shinonome font
 
